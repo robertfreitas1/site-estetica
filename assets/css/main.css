@@ -149,6 +149,7 @@ li,
   /**
   @color declaration
   */
+  --cor-primaria-logo: #5C342B;
   --tp-common-white: #ffffff;
   --tp-common-black: #000;
   --tp-common-1: #FCF6EF;
@@ -4293,6 +4294,7 @@ div.demo img {
   font-size: 24px;
   line-height: 1.5;
   margin-bottom: 97px;
+  color: var(--tp-text-body);
 }
 .tpbanner-title {
   font-size: 100px;
