@@ -149,8 +149,12 @@ li,
   /**
   @color declaration
   */
+  --Cor-Principal-Dourado-Claro:#B09D65;
+ --Cor-de-Fundo-Claro-bege-claro:#F5F5DC;
+ --tp-common-white: #ffffff;
+
   --cor-primaria-logo: #5C342B;
-  --tp-common-white: #ffffff;
+
   --tp-common-black: #000;
   --tp-common-1: #FCF6EF;
   --tp-heading-primary: #481E0B;
@@ -1686,7 +1690,7 @@ div.demo img {
 /*  2.5 Preloader
 /*----------------------------------------*/
 #loading {
-  background-color: #CD5F37;
+  background-color: var(--Cor-de-Fundo-Claro-bege-claro) /*#CD5F37*/;
   height: 100%;
   width: 100%;
   position: fixed;
@@ -1821,7 +1825,7 @@ div.demo img {
 }
 
 .theme-bg {
-  background: var(--tp-theme-primary);
+  background: var(--tp-common-white);
 }
 
 .theme-bg-2 {
@@ -2828,7 +2832,7 @@ div.demo img {
 }
 .header__search i:hover, .header__phone i:hover {
   box-shadow: inset 0 0 0 40px var(--tp-common-white);
-  color: var(--tp-theme-primary);
+  color: var(--cor-primaria-logo);
 }
 .header__phone {
   margin-left: 21px;
@@ -3527,7 +3531,7 @@ div.demo img {
 }
 .main-menu ul li > a {
   display: inline-block;
-  color: var(--tp-common-white);
+  color: var(--cor-primaria-logo);
   padding: 35px 0;
   font-size: 20px;
   line-height: 1.5;
@@ -3614,7 +3618,7 @@ div.demo img {
   transform: translateY(-50%);
   width: 0;
   height: 1px;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--cor-primaria-logo);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -3628,7 +3632,7 @@ div.demo img {
   opacity: 0;
 }
 .main-menu ul li .tp-submenu > li:hover > a, .main-menu ul li .tp-submenu > li.active > a {
-  color: var(--tp-theme-primary);
+  color: var(--cor-primaria-logo);
   padding-left: 43px;
 }
 .main-menu ul li .tp-submenu > li:hover > a::after, .main-menu ul li .tp-submenu > li.active > a::after {
@@ -3643,10 +3647,10 @@ div.demo img {
   opacity: 1;
 }
 .main-menu ul li:hover > a {
-  color: #fdcebc;
+  color: var(--Cor-Principal-Dourado-Claro) /* #fdcebc*/;
 }
 .main-menu ul li:hover > a::after {
-  color: var(--tp-theme-primary);
+  color: var(--tp-common-black);
 }
 .main-menu ul li:hover > .tp-submenu {
   visibility: visible;
