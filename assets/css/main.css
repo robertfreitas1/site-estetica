@@ -2828,10 +2828,10 @@ div.demo img {
   -ms-transition: all 0.3s ease-out 0s;
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
-  color: var(--tp-common-white);
+  color: var(--cor-primaria-logo);
 }
 .header__search i:hover, .header__phone i:hover {
-  box-shadow: inset 0 0 0 40px var(--tp-common-white);
+  box-shadow: inset 0 0 0 40px var(--Cor-Principal-Dourado-Claro);
   color: var(--cor-primaria-logo);
 }
 .header__phone {
@@ -2843,14 +2843,14 @@ div.demo img {
 .header__contact span {
   font-size: 14px;
   line-height: 1.5;
-  color: var(--tp-common-white);
+  color: var(--cor-primaria-logo);
   display: block;
 }
 .header__contact a {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.5;
-  color: var(--tp-common-white);
+  color: var(--cor-primaria-logo);
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .header__contact a {
