@@ -6870,10 +6870,10 @@ blockquote cite::before {
   transition: all 0.3s ease-out 0s;
 }
 .blog-7-btn a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .blog-7-btn a:hover span {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   animation: tfLeftToRight 0.5s forwards;
 }
 .blog-7-banner {
@@ -7097,7 +7097,7 @@ blockquote cite::before {
   }
 }
 .footer-link li a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .footer-link li a:hover::before {
   opacity: 1;
@@ -7173,14 +7173,14 @@ blockquote cite::before {
   height: 80px;
   width: 80px;
   line-height: 80px;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claroy);
   display: inline-block;
   font-size: 28px;
   color: var(--tp-common-white);
 }
 .footer-newsletter-submit button:hover {
   box-shadow: inset 0 0 0 60px #FAEFEB;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .footer-newsletter-submit button span {
   display: inline-block;
@@ -7375,7 +7375,7 @@ blockquote cite::before {
   }
 }
 .footer-post-3-title a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claroy);
 }
 .footer-post-3-date {
   font-size: 18px;
@@ -7448,7 +7448,7 @@ blockquote cite::before {
   height: 80px;
   width: 80px;
   line-height: 80px;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   background-color: var(--tp-common-white);
   border-radius: 50%;
   text-align: center;
@@ -7576,7 +7576,7 @@ blockquote cite::before {
   font-size: 20px;
   line-height: 1.5;
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   border-radius: 44px;
   width: 100%;
   text-align: center;
@@ -7584,7 +7584,7 @@ blockquote cite::before {
 }
 .footer-5-form .submit-btn:hover {
   background-color: var(--tp-common-white);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claroy);
 }
 .footer-5-border {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -7598,7 +7598,7 @@ blockquote cite::before {
   color: rgba(255, 255, 255, 0.7);
 }
 .footer-top-5 .footer-link li a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .footer-top-5 .footer-info p {
   color: rgba(255, 255, 255, 0.7);
@@ -7706,7 +7706,7 @@ blockquote cite::before {
   }
 }
 .footer-6-support a:hover {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .footer-6-support a span {
   margin-right: 10px;
@@ -7779,7 +7779,7 @@ blockquote cite::before {
   }
 }
 .footer-7-info a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .footer-7-btn {
   margin-bottom: 0;
@@ -7788,12 +7788,12 @@ blockquote cite::before {
   font-size: 48px;
   line-height: 1.1;
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
   width: 100%;
   text-align: center;
   padding: 41px 10px;
-  border: 2px solid var(--tp-theme-primary);
+  border: 2px solid var(--Cor-Principal-Dourado-Claroy);
 }
 @media (max-width: 767px) {
   .footer-7-btn a {
@@ -7802,7 +7802,7 @@ blockquote cite::before {
 }
 .footer-7-btn a:hover {
   background-color: var(--tp-common-white);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .footer-7-main {
   border-top: 1px solid rgba(72, 30, 11, 0.1);
@@ -7852,7 +7852,7 @@ blockquote cite::before {
   }
 }
 .footer-7-list ul li a:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 @media (max-width: 767px) {
@@ -8097,13 +8097,13 @@ blockquote cite::before {
   transition: all 0.3s ease-out 0s;
 }
 .about-3-play a:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claroy);
 }
 .about-3-play a:hover i {
   color: var(--tp-common-white);
 }
 .about-3-play a i {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -8114,14 +8114,14 @@ blockquote cite::before {
   height: 0;
 }
 .about-3-play a i:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 .about-3-list-item {
   display: flex;
 }
 .about-3-list-item:hover .about-3-list-icon i, .about-3-list-item:hover .about-3-list-icon span {
-  box-shadow: inset 0 0 0 60px var(--tp-theme-primary);
+  box-shadow: inset 0 0 0 60px var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 @media (max-width: 767px) {
@@ -8152,7 +8152,7 @@ blockquote cite::before {
   border-radius: 50%;
   display: inline-block;
   border: 1px solid #CD5F37;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -8328,7 +8328,7 @@ blockquote cite::before {
 .about-inner ul li span {
   margin-right: 8 px;
   display: inline-block;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .about-inner-btn .tp-btn {
   padding: 23px 36px;
@@ -8371,7 +8371,7 @@ blockquote cite::before {
   }
 }
 .process-5:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   transform: translateY(-25px);
 }
 .process-5:hover .process-5-title {
@@ -8413,7 +8413,7 @@ blockquote cite::before {
   z-index: -1;
   height: 100%;
   width: 100%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   bottom: -24px;
   left: -24px;
   border-radius: 24px;
@@ -8504,7 +8504,7 @@ blockquote cite::before {
   line-height: 72px;
   text-align: center;
   display: inline-block;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   background-color: var(--tp-common-white);
 }
 .history-item-content p {
@@ -8540,7 +8540,7 @@ blockquote cite::before {
   content: "";
   height: 100%;
   width: 1px;
-  border: 1px dashed var(--tp-theme-primary);
+  border: 1px dashed var(--Cor-Principal-Dourado-Claro);
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -8571,7 +8571,7 @@ blockquote cite::before {
 }
 .history-item-meta:hover .history-item-year span {
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .history-content-box {
   padding: 40px 40px 31px 40px;
@@ -8623,13 +8623,13 @@ blockquote cite::before {
   }
 }
 .brand-item a:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .brand-item a:hover img {
   filter: brightness(10);
 }
 .brand-slider-wrap {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .brand-slider-title {
   font-size: 80px;
@@ -8662,7 +8662,7 @@ blockquote cite::before {
 .brand-slider-3-text span {
   font-size: 24px;
   line-height: 1.5;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .brand-slider-4 .brand-slider-title {
   padding: 60px 0;
@@ -8738,7 +8738,7 @@ blockquote cite::before {
   margin: 0 auto;
   height: 0px;
   width: 345px;
-  background-color: var(--tp-theme-primary);
+ background-color: var(--Cor-Principal-Dourado-Claro);
   bottom: -152px;
   border-radius: 50%;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -8765,7 +8765,7 @@ blockquote cite::before {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   opacity: 0.2;
   border-radius: 50%;
   transform: scale(1.07);
@@ -8784,7 +8784,7 @@ blockquote cite::before {
 }
 .team-author-social a:hover i {
   background: rgb(255, 255, 255);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .team-author-social a i {
   width: 32px;
@@ -8889,7 +8889,7 @@ blockquote cite::before {
 .team-3-thumb {
   position: relative;
   padding: 24px;
-  border: 1px solid var(--tp-theme-primary);
+  border: 1px solid var(--Cor-Principal-Dourado-Claro);
   border-radius: 205px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -8940,7 +8940,7 @@ blockquote cite::before {
   }
 }
 .team-3-shape svg {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .team-3-social {
   position: absolute;
@@ -8982,7 +8982,7 @@ blockquote cite::before {
 }
 .team-3-social a i:hover {
   background: rgb(255, 255, 255);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .team-3-social a i {
@@ -9036,7 +9036,7 @@ blockquote cite::before {
   content: "";
   width: 0;
   height: 1px;
-  background: var(--tp-theme-primary);
+  background: var(--Cor-Principal-Dourado-Claro);
   left: auto;
   right: 0;
   bottom: 8px;
@@ -9044,7 +9044,7 @@ blockquote cite::before {
   transition: all 0.3s linear;
 }
 .team-3-title a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .team-3-title a:hover::before {
   opacity: 1;
@@ -9108,10 +9108,10 @@ blockquote cite::before {
 .team-single-arrow span:hover,
 .testimonial-single-arrow i:hover,
 .testimonial-single-arrow span:hover {
-  background: var(--tp-theme-primary);
-  border-color: var(--tp-theme-primary);
+  background: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
-  box-shadow: inset 0 0 0 40px var(--tp-theme-primary);
+  box-shadow: inset 0 0 0 40px var(--Cor-Principal-Dourado-Claro);
 }
 
 .team-4-item:hover .team-4-btn {
@@ -9123,7 +9123,7 @@ blockquote cite::before {
   transform: scale(1.08);
 }
 .team-4-item .team-3-title a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claroy);
 }
 .team-4-thumb {
   overflow: hidden;
@@ -9167,7 +9167,7 @@ blockquote cite::before {
   transition: all 0.3s ease-out 0s;
 }
 .team-4-btn .tp-btn {
-  border: 2px solid var(--tp-theme-primary);
+  border: 2px solid var(--Cor-Principal-Dourado-Claro);
   border-radius: 12px;
   font-weight: 500;
   padding: 23px 62px;
@@ -9179,7 +9179,7 @@ blockquote cite::before {
 }
 
 .team-details-thumb {
-  border: 1px solid var(--tp-theme-primary);
+  border: 1px solid var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
   padding: 15px;
 }
@@ -9187,7 +9187,7 @@ blockquote cite::before {
   font-weight: 400;
   font-size: 24px;
   line-height: 1.5;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   margin-bottom: 20px;
   display: inline-block;
 }
@@ -9241,7 +9241,7 @@ blockquote cite::before {
   }
 }
 .team-details-info ul li span {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .team-details-quotes {
   background: #FCF4F1;
@@ -9398,7 +9398,7 @@ blockquote cite::before {
   border: 1px solid transparent;
 }
 .appoinment-form-input input:focus, .appoinment-form-input .doctor-name:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 
 .appoinment-form-input input {
@@ -9617,7 +9617,7 @@ blockquote cite::before {
   bottom: -83px;
 }
 .testimonial-2-active .splide__pagination .splide__pagination__page {
-  background: var(--tp-theme-primary);
+  background: var(--Cor-Principal-Dourado-Claro);
   opacity: 0.4;
   width: 12px;
   height: 12px;
@@ -9641,12 +9641,12 @@ blockquote cite::before {
   transition: all 0.3s ease-in-out;
 }
 .testimonial-2-active .splide__pagination .is-active {
-  background: var(--tp-theme-primary);
+  background: var(--Cor-Principal-Dourado-Claro);
   opacity: 1;
   transform: scale(1);
 }
 .testimonial-2-active .splide__pagination .is-active::after {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claroy);
   transform: translate(-50%, -50%) scale(1);
 }
 
@@ -9853,7 +9853,7 @@ blockquote cite::before {
   border-radius: 12px;
 }
 .testimonial-6-client {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   padding: 37px 40px 42px 40px;
   border-radius: 12px;
 }
@@ -9979,7 +9979,7 @@ blockquote cite::before {
   margin-bottom: 60px;
 }
 .testimonial-7-rating i {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .testimonial-7-title {
   font-size: 40px;
@@ -10028,7 +10028,7 @@ blockquote cite::before {
   width: 262px;
   text-align: center;
   border-radius: 50%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   padding: 45px 0px 49px 0px;
   display: inline-block;
   border: 6px solid var(--tp-common-white);
@@ -10090,7 +10090,7 @@ blockquote cite::before {
   }
 }
 .services-2:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .services-2:hover .services-2-icon i {
   background: rgba(255, 255, 255, 0.1);
@@ -10197,7 +10197,7 @@ blockquote cite::before {
   height: 100%;
   width: 100%;
   opacity: 0;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   visibility: hidden;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -10321,7 +10321,7 @@ blockquote cite::before {
   line-height: 104px;
   text-align: center;
   border-radius: 50%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
   color: var(--tp-common-white);
 }
@@ -10381,7 +10381,7 @@ blockquote cite::before {
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claroy);
 }
 .services-4-btn a {
   font-weight: 500;
@@ -10416,8 +10416,8 @@ blockquote cite::before {
 }
 .services-4-btn a:hover {
   color: var(--tp-common-white);
-  border: 2px solid var(--tp-theme-primary);
-  background-color: var(--tp-theme-primary);
+  border: 2px solid var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .services-4-border {
   position: relative;
@@ -10513,7 +10513,7 @@ blockquote cite::before {
   margin-bottom: 17px;
 }
 .services-6-title a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .services-6-content p {
   font-size: 20px;
@@ -10535,7 +10535,7 @@ blockquote cite::before {
   width: 80px;
   line-height: 72px;
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   text-align: center;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
