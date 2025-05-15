@@ -10587,7 +10587,7 @@ blockquote cite::before {
   top: 11px;
   height: 6px;
   width: 6px;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .services-details-others .list li::after {
   position: absolute;
@@ -10605,7 +10605,7 @@ blockquote cite::before {
   color: #6A5952;
 }
 .services-details-others .list li a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .services-details-others .list li a span {
   display: inline-block;
@@ -10743,7 +10743,7 @@ blockquote cite::before {
   }
 }
 .services-details-quote {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   padding: 40px 40px 40px 40px;
 }
 @media (max-width: 767px) {
@@ -10845,7 +10845,7 @@ blockquote cite::before {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.5;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   background: #E8DFD0;
   display: inline-block;
   padding: 5px 16px;
@@ -10880,7 +10880,7 @@ blockquote cite::before {
   content: "";
   width: 0;
   height: 1px;
-  background: var(--tp-theme-primary);
+  background: var(--Cor-Principal-Dourado-Claro);
   left: auto;
   right: 0;
   bottom: 6px;
@@ -10888,7 +10888,7 @@ blockquote cite::before {
   transition: all 0.3s linear;
 }
 .portfolio-2-title a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .portfolio-2-title a:hover::before {
   opacity: 1;
@@ -10953,7 +10953,7 @@ blockquote cite::before {
   }
 }
 .portfolio-4-title:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 
 .portfolio-6-item:hover .portfolio-6-thumb::before {
@@ -11012,7 +11012,7 @@ blockquote cite::before {
   position: absolute;
   height: 666px;
   width: 100%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claroy);
   z-index: -1;
   top: 0px;
   left: 0;
@@ -11107,7 +11107,7 @@ blockquote cite::before {
   display: inline-block;
   text-align: center;
   border-radius: 50%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   padding: 62px 50px;
   transform: scale(0.8);
 }
@@ -11202,8 +11202,8 @@ blockquote cite::before {
   border-radius: 50%;
   background-color: var(--tp-theme-6);
   border: 2px solid #CD5F37;
-  color: var(--tp-theme-primary);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--Cor-Principal-Dourado-Claroy);
   display: inline-block;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -11220,8 +11220,8 @@ blockquote cite::before {
 }
 .case-5-arrow span:hover {
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
-  box-shadow: inset 0 0 0 40px var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
+  box-shadow: inset 0 0 0 40px var(--Cor-Principal-Dourado-Claroy);
 }
 
 .case-details-thumb {
@@ -11279,7 +11279,7 @@ blockquote cite::before {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.5;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   margin-bottom: 24px;
   padding-bottom: 24px;
   position: relative;
@@ -11310,7 +11310,7 @@ blockquote cite::before {
   margin-left: 12px;
 }
 .case-details-info ul li span a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 
 .slider-post {
@@ -11352,7 +11352,7 @@ blockquote cite::before {
   border: 2px solid #CD5F37;
   border-radius: 50%;
   display: inline-block;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -11368,7 +11368,7 @@ blockquote cite::before {
   }
 }
 .slider-post-next a span:hover, .slider-post-prev a span:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 
@@ -11514,7 +11514,7 @@ blockquote cite::before {
 }
 .product-add-select {
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
   padding: 17px 25px;
   text-align: center;
@@ -11717,7 +11717,7 @@ blockquote cite::before {
   font-size: 20px;
   line-height: 1.5;
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   text-align: center;
   padding: 17px 28px;
   border-radius: 6px;
@@ -11731,7 +11731,7 @@ blockquote cite::before {
 }
 .product-4-btn a:hover {
   background-color: var(--tp-common-white);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .product-4-all-btn .tp-btn {
   background: var(--tp-heading-primary);
@@ -11835,7 +11835,7 @@ blockquote cite::before {
   }
 }
 .top-product-nav nav .nav-tabs .nav-link.active span {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   position: relative;
   display: inline-block;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -11851,7 +11851,7 @@ blockquote cite::before {
   bottom: -25px;
   height: 2px;
   width: 100%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 @media (max-width: 767px) {
   .top-product-nav nav .nav-tabs .nav-link.active span::before {
@@ -11945,7 +11945,7 @@ blockquote cite::before {
 }
 .product-action-2 a:hover, .product-action-2 button:hover {
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .product-action-2 a:hover path, .product-action-2 button:hover path {
   color: var(--tp-common-white);
@@ -11968,7 +11968,7 @@ blockquote cite::before {
 }
 .review-wrapper .nav-pills .nav-link.active {
   color: var(--tp-common-white);
-  background: var(--tp-theme-primary);
+  background: var(--Cor-Principal-Dourado-Claro);
 }
 .review-wrapper .nav-item {
   margin-right: 24px;
@@ -12004,7 +12004,7 @@ blockquote cite::before {
   line-height: 1.5;
 }
 .postbox-review-rating-icon span {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .postbox-review-form-input input, .postbox-review-form-input textarea {
   background: #FCF4F1;
@@ -12021,7 +12021,7 @@ blockquote cite::before {
   color: var(--tp-text-body);
 }
 .postbox-review-form-input input:focus, .postbox-review-form-input textarea:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .postbox-review-form-input input:focus::placeholder, .postbox-review-form-input textarea:focus::placeholder {
   font-size: 0;
@@ -12221,7 +12221,7 @@ blockquote cite::before {
 }
 .category-7-content a:hover {
   background-size: 0 1px, 100% 1px;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 
 .category-7-arrow span,
@@ -12233,8 +12233,8 @@ blockquote cite::before {
   border-radius: 50%;
   background-color: transparent;
   border: 2px solid #CD5F37;
-  color: var(--tp-theme-primary);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -12252,7 +12252,7 @@ blockquote cite::before {
   top: 0;
   height: 100%;
   width: 100%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   border-radius: 50%;
   transform: scale(0);
   z-index: -1;
@@ -12356,7 +12356,7 @@ blockquote cite::before {
   -ms-transform: rotate(180deg);
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   width: auto;
   height: auto;
   font-weight: 400;
@@ -12397,7 +12397,7 @@ blockquote cite::before {
   border-color: var(--tp-heading-primary);
 }
 .tpfaq-3-accordion .accordion-button:not(.collapsed) {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   background-color: transparent;
   box-shadow: none;
 }
@@ -12406,11 +12406,11 @@ blockquote cite::before {
   border: 0;
 }
 .tpfaq-3-accordion .accordion-button:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tpfaq-3-accordion .accordion-button:hover::after {
-  color: var(--tp-theme-primary);
-  border-color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tpfaq-3-accordion .accordion-body {
   padding: 0 0 38px;
@@ -12507,7 +12507,7 @@ blockquote cite::before {
   }
 }
 .tpcoming__countdown span.cdown {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   height: 100%;
   width: 120px;
   text-align: center;
@@ -12592,13 +12592,13 @@ blockquote cite::before {
   margin-bottom: 10px;
 }
 .feature-5-title a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .feature-5-icon {
   margin-bottom: 23px;
 }
 .feature-5-icon span {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   transform: translate3d(0, 0, 0);
   transition: transform 0.3s cubic-bezier(0.21, 0.6, 0.44, 2.18);
   display: inline-block;
@@ -12646,7 +12646,7 @@ blockquote cite::before {
   line-height: 72px;
   text-align: center;
   border-radius: 50%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
   color: var(--tp-common-white);
 }
@@ -12743,7 +12743,7 @@ blockquote cite::before {
   z-index: -1;
 }
 .client-4-shape {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
   height: 160px;
   width: 160px;
@@ -12768,7 +12768,7 @@ blockquote cite::before {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.5;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
   background-color: var(--tp-common-white);
   padding: 25px 33px;
@@ -12785,7 +12785,7 @@ blockquote cite::before {
   background-color: var(--tp-heading-primary);
 }
 .client-4-btn .contact {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 .client-4-btn .contact:hover {
@@ -12857,7 +12857,7 @@ blockquote cite::before {
 .choose-7-title {
   font-size: 40px;
   line-height: 110%;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   margin-bottom: 16px;
 }
 .choose-7-content span {
@@ -12873,7 +12873,7 @@ blockquote cite::before {
   }
 }
 .choose-7-btn .tp-btn {
-  border: 2px solid var(--tp-theme-primary);
+  border: 2px solid var(--Cor-Principal-Dourado-Claro);
   font-weight: 500;
   font-size: 20px;
   padding: 23px 38px;
@@ -12960,7 +12960,7 @@ blockquote cite::before {
   text-align: center;
   color: var(--tp-common-white);
   display: inline-block;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claroy);
 }
 .contact-inner-item-content p {
   margin-bottom: 0;
@@ -12976,7 +12976,7 @@ blockquote cite::before {
   display: block;
 }
 .contact-inner-item-content a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .contact-inner-form {
   background: #FCF4F1;
@@ -13031,11 +13031,11 @@ blockquote cite::before {
   border-radius: 0;
 }
 .form-inner-check .form-check-input:checked {
-  background-color: var(--tp-theme-primary);
-  border-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .form-inner-check .form-check-input:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
   outline: 0;
   box-shadow: none;
 }
@@ -13192,7 +13192,7 @@ blockquote cite::before {
   border-radius: 6px;
 }
 .tppricing-btn button:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 .tppricing:hover, .tppricing-active {
@@ -13277,7 +13277,7 @@ blockquote cite::before {
   color: var(--tp-heading-primary);
 }
 .tp-cart-title a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-cart-price {
   width: 126px;
@@ -13339,7 +13339,7 @@ blockquote cite::before {
   font-size: 16px;
 }
 .tp-cart-coupon-input input:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-cart-coupon-input button {
   font-weight: 500;
@@ -13350,7 +13350,7 @@ blockquote cite::before {
 }
 .tp-cart-coupon-input button:hover {
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-cart-update-btn {
   font-weight: 500;
@@ -13361,8 +13361,8 @@ blockquote cite::before {
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
 .tp-cart-update-btn:hover {
-  background-color: var(--tp-theme-primary);
-  border-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 .tp-cart-checkout-wrapper {
@@ -13406,7 +13406,7 @@ blockquote cite::before {
   display: none;
 }
 .tp-cart-checkout-shipping-option input:checked + label::after {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-cart-checkout-shipping-option input:checked + label::before {
   opacity: 1;
@@ -13423,7 +13423,7 @@ blockquote cite::before {
   cursor: pointer;
 }
 .tp-cart-checkout-shipping-option label span {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-cart-checkout-shipping-option label::after {
   position: absolute;
@@ -13443,7 +13443,7 @@ blockquote cite::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   visibility: hidden;
   opacity: 0;
 }
@@ -13465,7 +13465,7 @@ blockquote cite::before {
   text-align: center;
 }
 .tp-cart-checkout-btn:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 
@@ -13493,7 +13493,7 @@ blockquote cite::before {
   width: 100%;
 }
 .tp-checkout-verify-reveal button {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   position: relative;
 }
 .tp-checkout-verify-reveal button::after {
@@ -13503,14 +13503,14 @@ blockquote cite::before {
   bottom: 4px;
   width: 100%;
   height: 1px;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-checkout-btn {
   display: inline-block;
   font-size: 16px;
   font-weight: 500;
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
@@ -13539,7 +13539,7 @@ blockquote cite::before {
   height: 60px;
 }
 .tp-checkout-input input:focus, .tp-checkout-input textarea:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-checkout-input textarea {
   height: 200px;
@@ -13583,7 +13583,7 @@ blockquote cite::before {
   padding-bottom: 5px;
 }
 .tp-checkout-input .nice-select .list .option:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-checkout-option {
   margin-bottom: 4px;
@@ -13596,8 +13596,8 @@ blockquote cite::before {
   display: none;
 }
 .tp-checkout-option input:checked ~ label::after {
-  background-color: var(--tp-theme-primary);
-  border-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-checkout-option input:checked ~ label::before {
   visibility: visible;
@@ -13646,7 +13646,7 @@ blockquote cite::before {
   transition: all 0.2s 0s ease-out;
 }
 .tp-checkout-option label a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-checkout-option label:hover {
   cursor: pointer;
@@ -13708,7 +13708,7 @@ blockquote cite::before {
   display: none;
 }
 .tp-checkout-payment-item input:checked ~ label::after {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-checkout-payment-item input:checked ~ label::before {
   opacity: 1;
@@ -13747,7 +13747,7 @@ blockquote cite::before {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   visibility: hidden;
   opacity: 0;
   -webkit-transition: all 0.2s 0s ease-out;
@@ -13839,14 +13839,14 @@ blockquote cite::before {
   height: 60px;
 }
 .tp-return-customer-input input:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-return-customer-remeber input {
   display: none;
 }
 .tp-return-customer-remeber input:checked ~ label::after {
-  background-color: var(--tp-theme-primary);
-  border-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-return-customer-remeber input:checked ~ label::before {
   visibility: visible;
@@ -13895,7 +13895,7 @@ blockquote cite::before {
   transition: all 0.2s 0s ease-out;
 }
 .tp-return-customer-remeber label a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-return-customer-remeber label:hover {
   cursor: pointer;
@@ -13903,7 +13903,7 @@ blockquote cite::before {
 .tp-return-customer-forgot a {
   font-weight: 400;
   font-size: 15px;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   position: relative;
   display: inline-block;
 }
@@ -13915,7 +13915,7 @@ blockquote cite::before {
   bottom: 4px;
   width: 0%;
   height: 1px;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-return-customer-forgot a:hover::after {
   left: 0;
@@ -13932,7 +13932,7 @@ blockquote cite::before {
   height: 60px;
 }
 .tp-checkout-country.nice-select:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-checkout-country.nice-select::after {
   top: 30px;
