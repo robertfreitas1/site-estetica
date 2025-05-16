@@ -151,6 +151,8 @@ li,
   */
   --Cor-Principal-Dourado-Claro:#B09D65;
  --Cor-de-Fundo-Claro-bege-claro:#F5F5DC;
+ --bege-areia:#EDEDC8;
+ --bege-pastel:#E1E1B2;
  --tp-common-white: #ffffff;
 
   --cor-primaria-logo: #5C342B;
@@ -4332,25 +4334,25 @@ div.demo img {
   }
 }
 .tpbanner-list-1 span {
-  background-color: #FFCFBE;
+  background-color: var(--Cor-de-Fundo-Claro-bege-claro);
   color: var(--tp-heading-primary);
   padding: 19px 23px;
   display: inline-block;
 }
 .tpbanner-list-2 span {
-  background-color: #F9B39A;
+  background-color: var(--bege-areia);
   color: var(--tp-heading-primary);
   padding: 13px 23px;
   display: inline-block;
 }
 .tpbanner-list-3 span {
-  background-color: #E7815C;
+  background-color: var(--bege-pastel);
   color: var(--tp-heading-primary);
   padding: 13px 23px;
   display: inline-block;
 }
 .tpbanner-list-4 span {
-  background-color: #CD5F37;
+  background-color: var(--cor-primaria-logo);
   color: var(--tp-common-white);
   padding: 13px 23px;
   display: inline-block;
