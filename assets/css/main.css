@@ -14697,8 +14697,8 @@ blockquote cite::before {
   }
 }
 .product-add-cart-btn-2:hover {
-  background-color: var(--tp-theme-primary);
-  border-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 .product-add-cart-btn-3 {
