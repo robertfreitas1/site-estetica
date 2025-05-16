@@ -2640,7 +2640,7 @@ div.demo img {
   position: relative;
   font-size: 24px;
   line-height: 1.5;
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--cor-primaria-logo);
   font-weight: 400;
 }
 @media (max-width: 767px) {
@@ -4299,7 +4299,7 @@ div.demo img {
   font-size: 24px;
   line-height: 1.5;
   margin-bottom: 97px;
-  color: var(--tp-text-body);
+  color: var(--tp-common-1);
 }
 .tpbanner-title {
   font-size: 100px;
