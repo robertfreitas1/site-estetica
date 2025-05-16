@@ -9527,7 +9527,7 @@ blockquote cite::before {
   top: 0;
   height: 100%;
   width: 100%;
-  border: 1px solid #CD5F37;
+  border: 1px solid var(--Cor-Principal-Dourado-Claro);
   border-radius: 50%;
   transform: scale(0);
 }
@@ -12697,7 +12697,7 @@ blockquote cite::before {
   z-index: -1;
 }
 .cta-6-btn .tp-round-btn {
-  background-color: var(--tp-theme-4);
+  background-color: var(--Cor-de-Fundo-Claro-bege-claro);
   border-color: var(--tp-theme-4);
   color: var(--tp-heading-primary);
 }
