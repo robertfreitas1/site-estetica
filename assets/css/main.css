@@ -1825,7 +1825,7 @@ div.demo img {
 }
 
 .theme-bg {
-  background: var(--tp-common-white);
+  background: var(--Cor-Principal-Dourado-Claro);
 }
 
 .theme-bg-2 {
@@ -2246,7 +2246,7 @@ div.demo img {
   height: 50px;
   width: 50px;
   line-height: 40px;
-  background-color: var(--Cor-Principal-Dourado-Claroy);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 @media (max-width: 767px) {
@@ -3032,7 +3032,7 @@ div.demo img {
   padding: 17px 30px;
 }
 .header__appoinment a:hover {
-  background-color: var(--tp-common-white);
+  background-color: var(--Cor-de-Fundo-Claro-bege-claro);
   color: var(--Cor-Principal-Dourado-Claro);
 }
 @media only screen and (min-width: 1600px) and (max-width: 1700px) {
@@ -3197,8 +3197,7 @@ div.demo img {
   opacity: 0.5;
 }
 .transparent__header-4.header-sticky {
-  background-color: var(--tp-common-white);
-}
+  background-color: var(--tp-common-white);}
 .transparent__header-4.header-sticky .main-menu-4 {
   padding: 0px 0 0px 0px;
 }
@@ -3228,7 +3227,7 @@ div.demo img {
   transition: all 0.3s ease-out 0s;
 }
 .header-5__right .need-help:hover {
-  background-color: var(--Cor-Principal-Dourado-Claroy);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .header-5__right .need-help:hover span {
   color: var(--tp-common-white);
@@ -3531,7 +3530,7 @@ div.demo img {
 }
 .main-menu ul li > a {
   display: inline-block;
-  color: var(--cor-primaria-logo);
+  color: var(--Cor-Principal-Dourado-Claro);
   padding: 35px 0;
   font-size: 20px;
   line-height: 1.5;
@@ -3618,7 +3617,7 @@ div.demo img {
   transform: translateY(-50%);
   width: 0;
   height: 1px;
-  background-color: var(--cor-primaria-logo);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -3632,7 +3631,7 @@ div.demo img {
   opacity: 0;
 }
 .main-menu ul li .tp-submenu > li:hover > a, .main-menu ul li .tp-submenu > li.active > a {
-  color: var(--cor-primaria-logo);
+  color: var(--Cor-Principal-Dourado-Claro);
   padding-left: 43px;
 }
 .main-menu ul li .tp-submenu > li:hover > a::after, .main-menu ul li .tp-submenu > li.active > a::after {
@@ -3818,7 +3817,7 @@ div.demo img {
   color: var(--Cor-Principal-Dourado-Claro);
 }
 .side-info-social a:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 .side-info-overlay {
