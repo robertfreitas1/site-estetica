@@ -7067,7 +7067,7 @@ blockquote cite::before {
   }
 }
 .footer-social a:hover {
-  background-color: #CD5F37;
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 .footer-title {
@@ -12633,7 +12633,9 @@ blockquote cite::before {
   top: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(90deg, #FFE8DF 0%, rgba(255, 236, 228, 0.85) 70.23%, rgba(252, 244, 241, 0) 100%);
+ background: linear-gradient(90deg, #5C342B 0%, rgba(214, 184, 169, 0.85) 60%, rgba(243, 230, 223, 0) 100%);
+
+
   z-index: -1;
 }
 @media (max-width: 767px) {
@@ -12649,7 +12651,7 @@ blockquote cite::before {
   border-radius: 50%;
   background-color: var(--Cor-Principal-Dourado-Claro);
   display: inline-block;
-  color: var(--tp-common-white);
+  color: var(--tp-common-1);
 }
 
 .cta-2-bg-2 {
@@ -12667,7 +12669,7 @@ blockquote cite::before {
   top: 0;
   height: 100%;
   width: 100%;
-  background: linear-gradient(270deg, #F0DED6 35.36%, rgba(245, 242, 237, 0) 100%);
+  background: linear-gradient(270deg, #5C342B 35.36%, rgba(245, 242, 237, 0) 100%);
   z-index: -1;
 }
 .cta-2-content {
@@ -12698,11 +12700,11 @@ blockquote cite::before {
 }
 .cta-6-btn .tp-round-btn {
   background-color: var(--Cor-de-Fundo-Claro-bege-claro);
-  border-color: var(--tp-theme-4);
-  color: var(--tp-heading-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .cta-6-btn .tp-round-btn:hover {
-  background-color: var(--tp-common-white);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 
 .client-4-wrapper .tpsection-title {
