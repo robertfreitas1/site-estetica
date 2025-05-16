@@ -14074,13 +14074,13 @@ blockquote cite::before {
   font-weight: 500;
 }
 .tp-order-info-list ul li.tp-order-info-list-subtotal span:last-child {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-order-info-list ul li.tp-order-info-list-shipping span input {
   display: none;
 }
 .tp-order-info-list ul li.tp-order-info-list-shipping span input:checked ~ label::after {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-order-info-list ul li.tp-order-info-list-shipping span input:checked ~ label::before {
   opacity: 1;
@@ -14092,7 +14092,7 @@ blockquote cite::before {
   padding-right: 27px;
 }
 .tp-order-info-list ul li.tp-order-info-list-shipping span label span {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-order-info-list ul li.tp-order-info-list-shipping span label:hover {
   cursor: pointer;
@@ -14120,7 +14120,7 @@ blockquote cite::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claroy);
   visibility: hidden;
   opacity: 0;
   -webkit-transition: all 0.2s 0s ease-out;
@@ -14166,7 +14166,7 @@ blockquote cite::before {
   color: #49535B;
 }
 .tp-login-top p a {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   position: relative;
   display: inline-block;
 }
@@ -14178,7 +14178,7 @@ blockquote cite::before {
   bottom: 4px;
   width: 0%;
   height: 1px;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -14227,7 +14227,7 @@ blockquote cite::before {
   transform: translateY(-3px);
 }
 .tp-login-option-item a:hover {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-login-mail {
   position: relative;
@@ -14243,7 +14243,7 @@ blockquote cite::before {
   background-color: var(--tp-common-white);
 }
 .tp-login-mail p a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-login-mail::after {
   position: absolute;
@@ -14293,7 +14293,7 @@ blockquote cite::before {
   color: #95999D;
 }
 .tp-login-input input:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-login-input-title label {
   font-size: 14px;
@@ -14335,8 +14335,8 @@ blockquote cite::before {
   display: none;
 }
 .tp-login-remeber input:checked ~ label::after {
-  background-color: var(--tp-theme-primary);
-  border-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-login-remeber input:checked ~ label::before {
   visibility: visible;
@@ -14385,7 +14385,7 @@ blockquote cite::before {
   transition: all 0.2s 0s ease-out;
 }
 .tp-login-remeber label a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-login-remeber label:hover {
   cursor: pointer;
@@ -14393,7 +14393,7 @@ blockquote cite::before {
 .tp-login-forgot a {
   font-weight: 400;
   font-size: 15px;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   position: relative;
   display: inline-block;
 }
@@ -14405,7 +14405,7 @@ blockquote cite::before {
   bottom: 4px;
   width: 0%;
   height: 1px;
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -14427,7 +14427,7 @@ blockquote cite::before {
   display: inline-block;
 }
 .tp-login-btn:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--tp-common-white);
 }
 .tp-login-shape-1, .tp-login-shape-2, .tp-login-shape-3, .tp-login-shape-4 {
@@ -14567,7 +14567,7 @@ blockquote cite::before {
 .tp-cart-plus:hover,
 .tp-cart-minus:hover {
   cursor: pointer;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .tp-cart-plus.tp-cart-plus,
 .tp-cart-minus.tp-cart-plus {
@@ -14676,7 +14676,7 @@ blockquote cite::before {
 }
 .product-add-cart-btn:hover {
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 .product-add-cart-btn-2 {
   border: 1px solid #DADCE0;
@@ -14718,7 +14718,7 @@ blockquote cite::before {
 }
 .product-add-cart-btn-3:hover {
   color: var(--tp-common-white);
-  background-color: var(--tp-theme-primary);
+  background-color: var(--Cor-Principal-Dourado-Claro);
 }
 @media (max-width: 767px) {
   .product-add-cart-btn-3 {
@@ -14821,7 +14821,7 @@ blockquote cite::before {
   font-weight: 500;
 }
 .cartmini__content h5 a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .cartmini__content .tp-product-quantity {
   width: 75px;
@@ -14874,14 +14874,14 @@ blockquote cite::before {
   font-size: 12px;
 }
 .cartmini__del:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .cartmini__checkout {
   padding: 20px;
   padding-bottom: 85px;
   width: 100%;
   background: var(--tp-common-white);
-  border-top: 2px solid var(--tp-border-primary);
+  border-top: 2px solid var(--Cor-Principal-Dourado-Claro);
 }
 .cartmini__checkout-title h4 {
   font-size: 18px;
@@ -14894,7 +14894,7 @@ blockquote cite::before {
   font-size: 20px;
   color: var(--tp-common-black);
   font-weight: 600;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .cartmini__checkout-btn .tp-btn {
   background-color: var(--tp-grey-1);
@@ -14915,7 +14915,7 @@ blockquote cite::before {
 .cartmini__price {
   font-size: 14px;
   font-weight: 500;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .cartmini__quantity {
   font-size: 12px;
@@ -14995,7 +14995,7 @@ blockquote cite::before {
   margin-bottom: 0;
 }
 .mini-cart-title a:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .mini-cart-remove {
   flex: 0 0 auto;
@@ -15005,12 +15005,12 @@ blockquote cite::before {
   color: var(--tp-heading-primary);
 }
 .mini-cart-quantity span {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   font-size: 14px;
 }
 .mini-cart-amount {
   font-size: 14px;
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
 }
 .mini-cart-total {
   display: flex;
@@ -15120,7 +15120,7 @@ blockquote cite::before {
   border-radius: 50%;
 }
 .product__modal-close-btn:hover {
-  color: var(--tp-theme-primary);
+  color: var(--Cor-Principal-Dourado-Claro);
   -webkit-transform: rotate(90deg);
   -moz-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
