@@ -3532,7 +3532,7 @@ div.demo img {
 }
 .main-menu ul li > a {
   display: inline-block;
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--tp-common-1);
   padding: 35px 0;
   font-size: 20px;
   line-height: 1.5;
