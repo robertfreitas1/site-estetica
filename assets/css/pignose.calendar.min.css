@@ -170,9 +170,9 @@
     padding: 0 17px;
     font-weight: 500;
     overflow: hidden;
-    background-color: #CD5F37;
+    background-color:#D8CCA0 ;
     font-size: 20px;
-    color: #fff;
+    color:#fff;
 }
 @media (max-width: 767px) {
   .pignose-calendar .pignose-calendar-header {
@@ -276,7 +276,7 @@
   background-color: #efefef;
 }
 .pignose-calendar .pignose-calendar-unit.pignose-calendar-unit-active a {
-  background-color: #CD5F37;
+  background-color: #D8CCA0;
   color: #ffffff;
   font-weight: 600;
 }
@@ -407,14 +407,14 @@
 }
 .pignose-calendar.pignose-calendar-blue .pignose-calendar-header .pignose-calendar-week.pignose-calendar-week-sun,
 .pignose-calendar.pignose-calendar-blue .pignose-calendar-header .pignose-calendar-week.pignose-calendar-week-sat {
-  color: #fa4832;
+  color: #D8CCA0;
 }
 .pignose-calendar.pignose-calendar-blue .pignose-calendar-body .pignose-calendar-row .pignose-calendar-unit a {
   color: #5c6270;
 }
 .pignose-calendar.pignose-calendar-blue .pignose-calendar-body .pignose-calendar-row .pignose-calendar-unit.pignose-calendar-unit-sun a,
 .pignose-calendar.pignose-calendar-blue .pignose-calendar-body .pignose-calendar-row .pignose-calendar-unit.pignose-calendar-unit-sat a {
-  color: #fa4832;
+  color: #D8CCA0;
 }
 .pignose-calendar.pignose-calendar-blue .pignose-calendar-body .pignose-calendar-row .pignose-calendar-unit.pignose-calendar-unit-disabled a {
   background-color: #efefef;
