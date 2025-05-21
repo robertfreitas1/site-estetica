@@ -1,5 +1,36 @@
+
+
+//00
+
+
+$(document).ready(function() {
+  $('.calendar').pignoseCalendar({
+    lang: 'pt',
+    i18n: {
+      yearSuffix: '',
+      months: [
+        'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+        'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
+      ],
+      weeks: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb']
+    }
+  });
+});
+
 /***************************************************
 ==================== JS INDEX ======================
+
+
+
+
+
+
+
+
+
+
+
+
 ****************************************************
 01. PreLoader Js
 ****************************************************/
