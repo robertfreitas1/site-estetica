@@ -2379,11 +2379,11 @@ div.demo img {
   line-height: 22px;
 }
 .offcanvas__info-item p a:hover {
-  color: var(--bege-areia);
+  color: var(--tp-common-black);
 }
 
 .offcanvas-open-btn-7 {
-  background-color: var(--bege-areia);
+  background-color: var(--tp-common-black);
 }
 .offcanvas-open-btn-7:hover {
   opacity: 0.8;
@@ -2866,15 +2866,17 @@ div.demo img {
   line-height: 56px;
   text-align: center;
   border-radius: 50%;
-  background-color: rgba(255, 255, 255, 0.2);
+background-color: rgba(92, 52, 43, 0.05);
+
+
   display: inline-block;
   line-height: 53px;
   cursor: pointer;
-  color: var(--tp-common-white);
+  color: var(--cor-primaria-logo);
 }
 
 .tpsearchbar {
-  background-color: var(--tp-common-white);
+  background-color: var(--cor-primaria-logo);
   text-align: start;
   position: fixed;
   right: 0;
@@ -3561,7 +3563,7 @@ div.demo img {
   transform: scale(1, 0);
   transform-origin: 0 0;
   width: 200px;
-  background: var(--tp-common-white);
+  background: var(--tp-common-black);
   z-index: 99;
   visibility: hidden;
   opacity: 0;
@@ -3619,7 +3621,7 @@ div.demo img {
   transform: translateY(-50%);
   width: 0;
   height: 1px;
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--tp-common-black);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -3634,10 +3636,10 @@ div.demo img {
 }
 .main-menu ul li .tp-submenu > li:hover > a, .main-menu ul li .tp-submenu > li.active > a {
   color: var(--Cor-Principal-Dourado-Claro);
-  padding-left: 43px;
+  padding-left: 43px; 
 }
 .main-menu ul li .tp-submenu > li:hover > a::after, .main-menu ul li .tp-submenu > li.active > a::after {
-  color: var(--tp-common-white);
+  color: var(--tp-common-black);
 }
 .main-menu ul li .tp-submenu > li:hover > a::before, .main-menu ul li .tp-submenu > li.active > a::before {
   width: 12px;
