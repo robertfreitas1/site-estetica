@@ -7067,7 +7067,7 @@ blockquote cite::before {
   }
 }
 .footer-social a:hover {
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
   color: var(--tp-common-white);
 }
 .footer-title {
@@ -7098,7 +7098,7 @@ blockquote cite::before {
   }
 }
 .footer-link li a:hover {
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
 }
 .footer-link li a:hover::before {
   opacity: 1;
@@ -7157,7 +7157,7 @@ blockquote cite::before {
   border: 1px solid transparent;
 }
 .footer-input input:focus {
-  border-color: var(--tp-theme-primary);
+  border-color: var(--bege-areia);
 }
 .footer-input input:focus::placeholder {
   font-size: 0;
@@ -7174,14 +7174,14 @@ blockquote cite::before {
   height: 80px;
   width: 80px;
   line-height: 80px;
-  background-color: var(--Cor-Principal-Dourado-Claroy);
+  background-color: var(--bege-areia);
   display: inline-block;
   font-size: 28px;
   color: var(--tp-common-white);
 }
 .footer-newsletter-submit button:hover {
   box-shadow: inset 0 0 0 60px #FAEFEB;
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
 }
 .footer-newsletter-submit button span {
   display: inline-block;
@@ -7376,7 +7376,7 @@ blockquote cite::before {
   }
 }
 .footer-post-3-title a:hover {
-  color: var(--Cor-Principal-Dourado-Claroy);
+  color: var(--bege-areia);
 }
 .footer-post-3-date {
   font-size: 18px;
@@ -7449,7 +7449,7 @@ blockquote cite::before {
   height: 80px;
   width: 80px;
   line-height: 80px;
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
   background-color: var(--tp-common-white);
   border-radius: 50%;
   text-align: center;
@@ -7577,7 +7577,7 @@ blockquote cite::before {
   font-size: 20px;
   line-height: 1.5;
   color: var(--tp-common-white);
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
   border-radius: 44px;
   width: 100%;
   text-align: center;
@@ -7585,7 +7585,7 @@ blockquote cite::before {
 }
 .footer-5-form .submit-btn:hover {
   background-color: var(--tp-common-white);
-  color: var(--Cor-Principal-Dourado-Claroy);
+  color: var(--bege-areia);
 }
 .footer-5-border {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
@@ -7599,7 +7599,7 @@ blockquote cite::before {
   color: rgba(255, 255, 255, 0.7);
 }
 .footer-top-5 .footer-link li a:hover {
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
 }
 .footer-top-5 .footer-info p {
   color: rgba(255, 255, 255, 0.7);
@@ -7707,7 +7707,7 @@ blockquote cite::before {
   }
 }
 .footer-6-support a:hover {
-  border-color: var(--Cor-Principal-Dourado-Claro);
+  border-color: var(--bege-areia);
 }
 .footer-6-support a span {
   margin-right: 10px;
@@ -7780,7 +7780,7 @@ blockquote cite::before {
   }
 }
 .footer-7-info a:hover {
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
 }
 .footer-7-btn {
   margin-bottom: 0;
@@ -7789,12 +7789,12 @@ blockquote cite::before {
   font-size: 48px;
   line-height: 1.1;
   color: var(--tp-common-white);
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
   display: inline-block;
   width: 100%;
   text-align: center;
   padding: 41px 10px;
-  border: 2px solid var(--Cor-Principal-Dourado-Claroy);
+  border: 2px solid var(--bege-areia);
 }
 @media (max-width: 767px) {
   .footer-7-btn a {
@@ -7803,7 +7803,7 @@ blockquote cite::before {
 }
 .footer-7-btn a:hover {
   background-color: var(--tp-common-white);
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
 }
 .footer-7-main {
   border-top: 1px solid rgba(72, 30, 11, 0.1);
@@ -7853,7 +7853,7 @@ blockquote cite::before {
   }
 }
 .footer-7-list ul li a:hover {
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
   color: var(--tp-common-white);
 }
 @media (max-width: 767px) {
@@ -8098,13 +8098,13 @@ blockquote cite::before {
   transition: all 0.3s ease-out 0s;
 }
 .about-3-play a:hover {
-  background-color: var(--Cor-Principal-Dourado-Claroy);
+  background-color: var(--bege-areia);
 }
 .about-3-play a:hover i {
   color: var(--tp-common-white);
 }
 .about-3-play a i {
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -8115,14 +8115,14 @@ blockquote cite::before {
   height: 0;
 }
 .about-3-play a i:hover {
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
   color: var(--tp-common-white);
 }
 .about-3-list-item {
   display: flex;
 }
 .about-3-list-item:hover .about-3-list-icon i, .about-3-list-item:hover .about-3-list-icon span {
-  box-shadow: inset 0 0 0 60px var(--Cor-Principal-Dourado-Claro);
+  box-shadow: inset 0 0 0 60px var(--bege-areia);
   color: var(--tp-common-white);
 }
 @media (max-width: 767px) {
@@ -8153,7 +8153,7 @@ blockquote cite::before {
   border-radius: 50%;
   display: inline-block;
   border: 1px solid #CD5F37;
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -8329,7 +8329,7 @@ blockquote cite::before {
 .about-inner ul li span {
   margin-right: 8 px;
   display: inline-block;
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
 }
 .about-inner-btn .tp-btn {
   padding: 23px 36px;
@@ -8372,7 +8372,7 @@ blockquote cite::before {
   }
 }
 .process-5:hover {
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
   transform: translateY(-25px);
 }
 .process-5:hover .process-5-title {
@@ -8414,7 +8414,7 @@ blockquote cite::before {
   z-index: -1;
   height: 100%;
   width: 100%;
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
   bottom: -24px;
   left: -24px;
   border-radius: 24px;
@@ -8541,7 +8541,7 @@ blockquote cite::before {
   content: "";
   height: 100%;
   width: 1px;
-  border: 1px dashed var(--Cor-Principal-Dourado-Claro);
+  border: 1px dashed var(--bege-areia);
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
@@ -8572,7 +8572,7 @@ blockquote cite::before {
 }
 .history-item-meta:hover .history-item-year span {
   color: var(--tp-common-white);
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
 }
 .history-content-box {
   padding: 40px 40px 31px 40px;
@@ -8624,13 +8624,13 @@ blockquote cite::before {
   }
 }
 .brand-item a:hover {
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
 }
 .brand-item a:hover img {
   filter: brightness(10);
 }
 .brand-slider-wrap {
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
 }
 .brand-slider-title {
   font-size: 80px;
@@ -8663,7 +8663,7 @@ blockquote cite::before {
 .brand-slider-3-text span {
   font-size: 24px;
   line-height: 1.5;
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
 }
 .brand-slider-4 .brand-slider-title {
   padding: 60px 0;
@@ -8690,7 +8690,7 @@ blockquote cite::before {
   border: 2px solid var(--tp-common-white);
 }
 .appoinment-5-btn .tp-round-btn:hover {
-  background-color: var(--tp-theme-primary);
+  background-color: var(--bege-areia);
   color: var(--tp-common-white);
 }
 
@@ -8739,7 +8739,7 @@ blockquote cite::before {
   margin: 0 auto;
   height: 0px;
   width: 345px;
- background-color: var(--Cor-Principal-Dourado-Claro);
+ background-color: var(--bege-areia);
   bottom: -152px;
   border-radius: 50%;
   -webkit-transition: all 0.3s ease-out 0s;
