@@ -4334,7 +4334,7 @@ div.demo img {
   }
 }
 .tpbanner-list-1 span {
-  background-color: var(--Cor-de-Fundo-Claro-bege-claro);
+  background-color: var(--bege-areia);
   color: var(--tp-heading-primary);
   padding: 19px 23px;
   display: inline-block;
@@ -4496,7 +4496,7 @@ div.demo img {
   text-align: center;
   border-radius: 50%;
   background-color: var(--tp-common-white);
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
@@ -4504,7 +4504,7 @@ div.demo img {
   transition: all 0.3s ease-out 0s;
 }
 .tpbanner-video-play a:hover {
-  background-color: var(--Cor-Principal-Dourado-Claro);
+  background-color: var(--bege-areia);
   color: var(--tp-common-white);
 }
 .tpbanner-video-play a i {
@@ -4679,7 +4679,7 @@ div.demo img {
 }
 .tpbanner-2-btn:hover {
   background-color: var(--tp-common-white);
-  color: var(--Cor-Principal-Dourado-Claro);
+  color: var(--bege-areia);
 }
 
 /*----------------------------------------*/
