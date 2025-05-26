@@ -1042,9 +1042,9 @@ div.demo img {
 /* theme btn */
 .tp-btn {
   display: inline-block;
-  color: var(--tp-common-white);
+  color: var(--cor-primaria-logo);
   background: var(--bege-areia);
-  border: 2px solid var(--bege-areia);
+  border: 2px solid var(--Cor-Principal-Dourado-Claro);
   text-align: center;
   font-family: var(--tp-ff-body);
   padding: 8px 28px;
@@ -1072,7 +1072,7 @@ div.demo img {
 }
 .tp-btn:hover {
   background: var(--tp-common-white);
-  color: var(--bege-areia);
+  color: var(--tp-common-black);
 }
 .tp-btn:focus {
   color: var(--tp-heading-primary);
@@ -2640,7 +2640,7 @@ div.demo img {
   position: relative;
   font-size: 24px;
   line-height: 1.5;
-  color: var(--bege-areia);
+  color: var(--tp-common-black);
   font-weight: 400;
 }
 @media (max-width: 767px) {
@@ -3550,7 +3550,7 @@ background-color: rgba(92, 52, 43, 0.05);
   -o-transform: translateY(1px);
   transform: translateY(1px);
   font-size: 14px;
-  color: var(--tp-common-black);
+  color: var(--tp-common-black );
   font-family: var(--tp-ff-fontawesome);
   font-weight: 400;
   margin-left: 5px;
@@ -3563,7 +3563,7 @@ background-color: rgba(92, 52, 43, 0.05);
   transform: scale(1, 0);
   transform-origin: 0 0;
   width: 200px;
-  background: var(--tp-common-black);
+  background: var(--Cor-de-Fundo-Claro-bege-claro);
   z-index: 99;
   visibility: hidden;
   opacity: 0;
@@ -4301,7 +4301,7 @@ background-color: rgba(92, 52, 43, 0.05);
   font-size: 24px;
   line-height: 1.5;
   margin-bottom: 97px;
-  color: var(--tp-common-1);
+  color: var(--cor-primaria-logo);
 }
 .tpbanner-title {
   font-size: 100px;
@@ -4497,7 +4497,7 @@ background-color: rgba(92, 52, 43, 0.05);
   line-height: 80px;
   text-align: center;
   border-radius: 50%;
-  background-color: var(--tp-common-white);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   color: var(--bege-areia);
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -7069,8 +7069,8 @@ blockquote cite::before {
   }
 }
 .footer-social a:hover {
-  background-color: var(--bege-areia);
-  color: var(--tp-common-white);
+  background-color: var(--Cor-de-Fundo-Claro-bege-claro);
+  color: var(--tp-common-black);
 }
 .footer-title {
   font-weight: 700;
@@ -7090,7 +7090,7 @@ blockquote cite::before {
 .footer-link li a {
   font-size: 20px;
   line-height: 1;
-  color: var(--tp-text-body);
+  color: var(--tp-common-black);
   display: inline-block;
   position: relative;
 }
@@ -7100,7 +7100,7 @@ blockquote cite::before {
   }
 }
 .footer-link li a:hover {
-  color: var(--bege-areia);
+  color: var(--tp-common-black);
 }
 .footer-link li a:hover::before {
   opacity: 1;
@@ -7114,7 +7114,7 @@ blockquote cite::before {
   content: "";
   width: 0;
   height: 1px;
-  background: #CD5F37;
+  background: var(--bege-areia);
   left: auto;
   right: 0;
   bottom: -1px;
@@ -12651,7 +12651,7 @@ blockquote cite::before {
   line-height: 72px;
   text-align: center;
   border-radius: 50%;
-  background-color: var(--bege-areia);
+  background-color: var(--cor-primaria-logo);
   display: inline-block;
   color: var(--tp-common-1);
 }
@@ -12671,7 +12671,7 @@ blockquote cite::before {
   top: 0;
   height: 100%;
   width: 100%;
-  background: linear-gradient(270deg, #5C342B 35.36%, rgba(245, 242, 237, 0) 100%);
+background: linear-gradient(270deg, #E8DCC8 35.36%, rgba(245, 242, 237, 0) 100%);
   z-index: -1;
 }
 .cta-2-content {
@@ -12701,7 +12701,7 @@ blockquote cite::before {
   z-index: -1;
 }
 .cta-6-btn .tp-round-btn {
-  background-color: var(--bege-areia);
+  background-color: var(--Cor-Principal-Dourado-Claro);
   border-color: var(--bege-areia);
   color: var(--bege-areia);
 }
