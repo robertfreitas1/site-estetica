@@ -4355,7 +4355,7 @@ background-color: rgba(92, 52, 43, 0.05);
 }
 .tpbanner-list-4 span {
   background-color: var(--bege-areia);
-  color: var(--tp-common-white);
+  color: var(--tp-border-primary);
   padding: 13px 23px;
   display: inline-block;
 }
@@ -8350,7 +8350,9 @@ blockquote cite::before {
   width: 102%;
   border-radius: 300px;
   z-index: -1;
-  background-color: rgba(205, 95, 55, 0.4);
+  background-color:var(--bege-areia) ;
+
+ /*rgba(205, 95, 55, 0.4)*/
 }
 
 .process-5 {
@@ -8786,7 +8788,7 @@ blockquote cite::before {
   visibility: hidden;
 }
 .team-author-social a:hover i {
-  background: rgb(255, 255, 255);
+  background: var(--Cor-Principal-Dourado-Claro);
   color: var(--bege-areia);
 }
 .team-author-social a i {
@@ -8796,7 +8798,7 @@ blockquote cite::before {
   text-align: center;
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.15);
-  color: var(--tp-common-white);
+  color: var(--tp-border-primary);
   font-size: 12px;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
@@ -8808,7 +8810,7 @@ blockquote cite::before {
 .team-author-title {
   font-size: 36px;
   line-height: 1.1;
-  color: var(--tp-common-white);
+  color: var(--Cor-Principal-Dourado-Claroy);
   margin-bottom: 0;
   transform: translateY(5px);
   visibility: hidden;
@@ -8821,18 +8823,22 @@ blockquote cite::before {
   transition: all 0.3s ease-out 0s;
 }
 .team-author-position {
+
+
+
+
   font-size: 20px;
   line-height: 1.5;
-  color: var(--tp-common-white);
+  color: var(--tp-border-primary);
   transform: translateY(5px);
   visibility: hidden;
-  opacity: 0;
+  opacity: 0; 
   transition-delay: 0.1s;
   -webkit-transition: all 0.3s ease-out 0s;
   -moz-transition: all 0.3s ease-out 0s;
   -ms-transition: all 0.3s ease-out 0s;
   -o-transition: all 0.3s ease-out 0s;
-  transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s; 
 }
 .team-profile img {
   width: 100%;
