@@ -1243,7 +1243,7 @@ div.demo img {
   display: inline-block;
   font-size: 18px;
   font-weight: 500;
-  color: var(--tp-common-white);
+  color: var(--tp-border-primary);
   background: var(--bege-areia);
   text-align: center;
   padding: 16px 22px;
@@ -1256,8 +1256,8 @@ div.demo img {
   padding-left: 5px;
 }
 .tp-btn-offcanvas:hover {
-  background-color: var(--tp-heading-primary);
-  color: var(--tp-common-white);
+  background-color: var(--bege-pastel);
+  color: var(--tp-border-primary);
 }
 
 /*----------------------------------------*/
@@ -2389,6 +2389,9 @@ div.demo img {
   opacity: 0.8;
 }
 
+
+
+
 /*----------------------------------------*/
 /*  2.11 Breadcrumb
 /*----------------------------------------*/
@@ -2408,13 +2411,13 @@ div.demo img {
   left: 0;
   height: 100%;
   width: 100%;
-  background: rgba(0, 0, 0, 0.6);
+  background:  var(--bege-areia) /*rgba(0, 0, 0, 0.6)*/;
   z-index: -1;
 }
 .tpbreadcrumb-title {
   font-size: 80px;
   line-height: 1.1;
-  color: var(--tp-common-white);
+  color: var(--tp-border-primary);
   margin-bottom: 17px;
 }
 @media (max-width: 767px) {
@@ -2425,7 +2428,7 @@ div.demo img {
 .tpbreadcrumb p {
   font-size: 18px;
   line-height: 1.5;
-  color: rgba(255, 255, 255, 0.8);
+  color: var(--tp-border-primary);
   margin-bottom: 0;
 }
 @media (max-width: 767px) {
@@ -3797,7 +3800,7 @@ background-color: rgba(92, 52, 43, 0.05);
 }
 .side-info-contact span {
   font-weight: 700;
-  color: var(--bege-areia);
+  color: var(--tp-border-primary);
   font-size: 20px;
   text-transform: uppercase;
   display: inline-block;
@@ -3818,11 +3821,11 @@ background-color: rgba(92, 52, 43, 0.05);
   font-size: 14px;
   text-align: center;
   border-radius: 50%;
-  color: var(--bege-areia);
+  color: var(--tp-border-primary);
 }
 .side-info-social a:hover {
   background-color: var(--bege-areia);
-  color: var(--tp-common-white);
+  color: var(--tp-border-primary);
 }
 .side-info-overlay {
   background-color: rgba(0, 0, 0, 0.5);
@@ -12969,7 +12972,7 @@ background: linear-gradient(270deg, #E8DCC8 35.36%, rgba(245, 242, 237, 0) 100%)
   width: 64px;
   line-height: 64px;
   text-align: center;
-  color: var(--tp-common-white);
+  color: var(--tp-border-primary);
   display: inline-block;
   background-color: var(--bege-areia);
 }
