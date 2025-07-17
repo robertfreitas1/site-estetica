@@ -204,10 +204,11 @@
                         </div>
                         <ul class="tpbanner-list">
                            <li class="tpbanner-list-1"><span>01 - Exames Integrativos</span></li>
-                           <li class="tpbanner-list-2"><span>02 - MusicoTerapia</span></li>
+                           <li class="tpbanner-list-2"><span>02 - Musicoterapia</span></li>
                            <li class="tpbanner-list-3"><span>03 - Tricologia </span></li>
-                           <li class="tpbanner-list-3"><span>03 - Nutrição</span></li>
-                           <li class="tpbanner-list-4"><span>04 - Podologia</span></li>
+                           <li class="tpbanner-list-3"><span>04 - Nutrição</span></li>
+                           <li class="tpbanner-list-4"><span>05 - Podologia</span></li>
+                                <li class="tpbanner-list-4"><span>06 - Outros</span></li>
                         </ul>
                      </div>
                   </div>
@@ -427,7 +428,10 @@
                         <div class="tpsection mb-30">
                            <h2 class="tpsection-title mb-25">Conheça Aniclécia Santos</h2>
                            <p>
-                             Texto sobre aniclécia  </p>
+                             Texto sobre aniclécia  
+
+
+ </p>
                         </div>
                         <ul>
                            <li>
@@ -505,7 +509,7 @@
                               <div class="col-lg-5">
                                  <div class="history-item mb-40 wow fadeInRight" data-wow-duration="1s" data-wow-delay=".2s">
                                     <div class="history-thumb">
-                                       <img src="assets/img/history/history-thumb-1.jpg" alt="">
+                                       <img src="assets/img/history/image-comeco.jpeg" alt="imagem do começo da estética">
                                     </div>
                                  </div>
                               </div>
@@ -566,7 +570,7 @@
                               <div class="col-lg-5">
                                  <div class="history-item mb-40 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">
                                     <div class="history-thumb-2">
-                                       <img src="assets/img/history/history-thumb-3.jpg" alt="">
+                                       <img src="assets/img/history/image-expansao.jpeg" alt="">
                                     </div>
                                  </div>
                               </div>
@@ -628,8 +632,7 @@ Seguimos juntos, com amor e comprometimento, fazendo da estética uma verdadeira
 
 
 
-
-            <section class="appoinment-form-area theme-bg-2 p-relative mb-140 pt-150 pb-140">
+<section class="appoinment-form-area theme-bg-2 p-relative mb-140 pt-150 pb-140">
   <div class="container">
     <div class="row">
       <div class="col-xxl-5 col-xl-6 col-lg-5">
@@ -643,43 +646,32 @@ Seguimos juntos, com amor e comprometimento, fazendo da estética uma verdadeira
 
       <div class="col-xxl-7 col-xl-6 col-lg-7">
         <div class="form-wrap wow fadeInRight" data-wow-duration="1.8s" data-wow-delay=".7s">
-          <!-- ⬇️ id adicionado -->
           <form id="formAgendamento" action="#">
             <div class="row">
               <div class="col-lg-6">
                 <div class="appoinment-form-input mb-30">
-                  <!-- ⬇️ id adicionado -->
                   <input id="nome" type="text" placeholder="Seu nome">
                 </div>
               </div>
 
-        - <div class="col-lg-6">
-                  <div class="appoinment-form-input mb-30">
-                  <!-- ⬇️ id adicionado -->
-                  <input id="telefone" type="text" placeholder="Telefone">
-                 </div>
-                </div> 
-
-
-
               <div class="col-lg-6">
                 <div class="appoinment-form-input mb-30">
-                  <!-- ⬇️ id adicionado -->
                   <select id="tratamento" class="doctor-name wide">
-                    <option>Tipo de Tratamento </option>
-                    <option>Limpeza de pele</option>
-                    <option>Harmonização com leveza e segurança</option>
-                    <option>Gordura localizada</option>
-                    <option>Depilação definitiva + clareamento com Lyra</option>
-                    <option>Tratamento tricológico integrativo</option>
-                    <option>Soroterapia</option>
-                    <option>Nutrição</option>
-                    <option>Musicoterapia</option>
-                    <option>Cicatrizes de acne</option>
-                    <option>Estrias brancas</option>
-                    <option>Fios de colágeno</option>
-                    <option>Podologia</option>
-                    <option >Outros</option>
+            <option>Tipo de Tratamento </option>
+                  <option>Cicatrizes de acne</option>
+                  <option>Estrias brancas</option>
+                  <option>Gordura localizada</option>
+                  <option>Harmonização</option>
+                  <option>Limpeza de pele</option>
+                  <option>Musicoterapia</option>
+                  <option>Nutrição</option>
+             
+                  <option>Podologia</option>
+                  <option>Tratamento tricológico</option>
+                  <option>Outros</option>
+
+
+
                   </select>
                 </div>
               </div>
@@ -692,31 +684,24 @@ Seguimos juntos, com amor e comprometimento, fazendo da estética uma verdadeira
             </div>
           </form>
 
-          <!-- ⬇️ script que faz o redirecionamento -->
           <script>
             document.addEventListener("DOMContentLoaded", function () {
               const form = document.getElementById("formAgendamento");
               form.addEventListener("submit", function (e) {
-                e.preventDefault(); // impede recarregar a página
+                e.preventDefault();
 
-                const nome      = document.getElementById("nome").value.trim();
-                const telefone  = document.getElementById("telefone").value.trim();
+                const nome = document.getElementById("nome").value.trim();
                 const tratamento = document.getElementById("tratamento").value;
 
-                // validações mínimas
-                if (!nome || !telefone || tratamento === "Tipo de Tratamento") {
+                if (!nome || tratamento === "Tipo de Tratamento") {
                   alert("Por favor, preencha todos os campos.");
                   return;
                 }
 
-                // mensagem que aparecerá no WhatsApp
-                const msg = `Olá! Meu nome é ${nome}. Telefone: ${telefone}. ` +
+                const msg = `Olá! Meu nome é ${nome}. ` +
                             `Gostaria de agendar ${tratamento}.`;
 
-                // número da clínica no formato 55+DDD+número
-                const url = "https://wa.me/75991123006?text="  + encodeURIComponent(msg);
-
-                // abre o WhatsApp em nova aba / nova janela
+                const url = "https://wa.me/75991123006?text=" + encodeURIComponent(msg);
                 window.open(url, "_blank");
               });
             });
@@ -726,7 +711,7 @@ Seguimos juntos, com amor e comprometimento, fazendo da estética uma verdadeira
     </div>
   </div>
 
-  <!-- shapes decorativos (sem alteração) -->
+  <!-- shapes decorativos -->
   <div class="appoinment-shape">
     <div class="appoinment-shape-1">
       <img src="assets/img/shape/form-shape-1.png" alt="">
@@ -736,6 +721,7 @@ Seguimos juntos, com amor e comprometimento, fazendo da estética uma verdadeira
     </div>
   </div>
 </section>
+
 
 
          <!-- appoinment-form-area-start 
@@ -900,7 +886,7 @@ Super indico! Funciona de verdade!</p>
                                     </div>
                                     <div class="swiper-slide">
                                        <div class="testimonial-content">
-                                          <p>A pele ficou maravilhosa após o tratamento. Super recomendo!”</p>
+                                          <p> Conhecer a doutora foi a melhor coisa que me aconteceu. Cheguei muito mal, com dormências e inchaço, sem melhora. Mas já na primeira semana de tratamento comecei a sentir diferença. Hoje durmo bem, desinchei e não sinto mais dormência. Sou grata a Deus, à doutora Aniclécia e à equipe maravilhosa. Que Deus abençoe o dia de vocês!</p>
                                           <div class="testimonial-author">
                                              <span class="testimonial-author-name">Maria de Cristo</span>
                                              <span class="testimonial-author-position">Cliente</span>
@@ -1024,11 +1010,11 @@ Super indico! Funciona de verdade!</p>
                            <span class="footer-title">Serviços</span>
                            <div class="footer-link">
                               <ul>
-                                 <li><a href="#"> Exames Integrativos</a></li>
-                                 <li><a href="#"> MusicoTerapia</a></li>
-                                 <li><a href="#">Tricologia</a></li>
-                                 <li><a href="#"> Nutrição</a></li>
-                                 <li><a href="#"> Podologia</a></li>
+                                 <li><a href="services.html"> Exames Integrativos</a></li>
+                                 <li><a href="services.html#musicoterapia"> MusicoTerapia</a></li>
+                                 <li><a href="services.html#tricologia">Tricologia</a></li>
+                                 <li><a href="services.html#nutricao"> Nutrição</a></li>
+                                 <li><a href="services.html#podologia"> Podologia</a></li>
                                 
                               </ul>
                            </div>
@@ -1044,6 +1030,7 @@ Super indico! Funciona de verdade!</p>
                                       <li><a href="services.html">Serviços</a></li>
                                  
                                    <li><a href="faq.html">FAQ</a></li>
+                                               <li><a href="contact.html">Contato</a></li>
                           
                                  
                                     
