@@ -2483,7 +2483,7 @@ div.demo img {
   -ms-transform: rotate(180deg);
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
-  color: var(--bege-areia);
+  color: var(--tp-border-primary);
   width: auto;
   height: auto;
   font-weight: 500;
@@ -2561,7 +2561,7 @@ div.demo img {
   color: var(--tp-common-black);
 }
 .tp-accordion .accordion-button:not(.collapsed) {
-  color: var(--bege-areia);
+  color: var(--tp-border-primary);
   background-color: transparent;
   box-shadow: none;
 }
@@ -2571,7 +2571,7 @@ div.demo img {
   -ms-transform: translateX(-50%) rotate(90deg);
   -o-transform: translateX(-50%) rotate(90deg);
   transform: translateX(-50%) rotate(90deg);
-  background-color: var(--tp-theme-1);
+  background-color: var(--tp-border-primary);
 }
 [dir=rtl] .tp-accordion .accordion-button:not(.collapsed) .tp-accordion-plus::before {
   -webkit-transform: translateX(50%) rotate(90deg);
@@ -2581,24 +2581,24 @@ div.demo img {
   transform: translateX(50%) rotate(90deg);
 }
 .tp-accordion .accordion-button:not(.collapsed) .tp-accordion-plus::after {
-  background-color: var(--tp-theme-1);
+  background-color: var(--tp-border-primary);
 }
 .tp-accordion .accordion-button:focus {
   box-shadow: none;
   border: 0;
 }
 .tp-accordion .accordion-button:hover {
-  color: var(--tp-theme-primary);
+  color: var(--tp-border-primary);
 }
 .tp-accordion .accordion-button:hover::after {
-  color: var(--tp-theme-primary);
+  color: var(--tp-border-primary);
 }
 .tp-accordion .accordion-body {
   padding: 0 0 25px;
 }
 .tp-accordion .accordion-body p {
   font-size: 16px;
-  color: var(--tp-text-1);
+  color: var(--tp-border-primary);
 }
 
 /*----------------------------------------*/
@@ -12368,7 +12368,7 @@ blockquote cite::before {
   -ms-transform: rotate(180deg);
   -o-transform: rotate(180deg);
   transform: rotate(180deg);
-  color: var(--bege-areia);
+  color: var(--tp-border-primary);
   width: auto;
   height: auto;
   font-weight: 400;
@@ -12409,7 +12409,7 @@ blockquote cite::before {
   border-color: var(--tp-heading-primary);
 }
 .tpfaq-3-accordion .accordion-button:not(.collapsed) {
-  color: var(--bege-areia);
+  color: var(--tp-border-primary);
   background-color: transparent;
   box-shadow: none;
 }
@@ -12421,7 +12421,7 @@ blockquote cite::before {
   color: var(--Cor-Principal-Dourado-Claro);
 }
 .tpfaq-3-accordion .accordion-button:hover::after {
-  color: var(--bege-areia);
+  color: var(--tp-border-primary);
   border-color: var(--bege-areia);
 }
 .tpfaq-3-accordion .accordion-body {
